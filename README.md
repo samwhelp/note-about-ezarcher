@@ -42,3 +42,14 @@
 | [kde-plasma-style-layan-solid-dark-breeze](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/style/kde-plasma-style-layan-solid-dark-breeze) |
 | [kde-plasma-style-white-sur-dark-breeze](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/style/kde-plasma-style-white-sur-dark-breeze) |
 
+
+## 相關筆記
+
+* [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) ([GitHub](https://github.com/samwhelp/note-about-kde/))
+* [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
+* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) ([GitHub](https://github.com/samwhelp/note-about-ubuntu/))
+
+
+## samwhelp
+
+* [個人筆記](https://samwhelp.github.io/book/)
