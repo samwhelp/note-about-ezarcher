@@ -15,9 +15,9 @@ grand_parent: 佈景主題
 * AUR Search: [Nordic](https://aur.archlinux.org/packages?O=0&SeB=nd&K=Nordic&outdated=&SB=m&SO=a&PP=50&submit=Go)
 
 
-## Package
+## AUR Package
 
-| Package |
+| AUR Package |
 | --- |
 | [nordic-theme](https://aur.archlinux.org/packages/nordic-theme) |
 | [nordic-kde-git](https://aur.archlinux.org/packages/nordic-kde-git) |

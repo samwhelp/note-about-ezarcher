@@ -15,9 +15,9 @@ grand_parent: 佈景主題
 * AUR Search: [Fluent](https://aur.archlinux.org/packages?O=0&SeB=nd&K=Fluent&outdated=&SB=m&SO=d&PP=50&submit=Go)
 
 
-## Package
+## AUR Package
 
-| Package |
+| AUR Package |
 | --- |
 | [fluent-kde-theme-git](https://aur.archlinux.org/packages/fluent-kde-theme-git) |
 | [fluent-gtk-theme-git](https://aur.archlinux.org/packages/fluent-gtk-theme-git) |
