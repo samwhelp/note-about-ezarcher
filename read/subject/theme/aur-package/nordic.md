@@ -17,17 +17,15 @@ grand_parent: 佈景主題
 
 ## Package
 
-* [nordic-theme](https://aur.archlinux.org/packages/nordic-theme)
-* [nordic-kde-git](https://aur.archlinux.org/packages/nordic-kde-git)
+| Package |
+| --- |
+| [nordic-theme](https://aur.archlinux.org/packages/nordic-theme) |
+| [nordic-kde-git](https://aur.archlinux.org/packages/nordic-kde-git) |
 
 
+## 腳本
 
-## 安裝腳本
-
-* [安裝腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/theme/nordic)
-* [設定腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/style/kde-plasma-style-nordic-darker-breeze)
-
-
-
-
-
+| 腳本 |
+| --- |
+| [安裝腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/theme/nordic)
+| [設定腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/style/kde-plasma-style-nordic-darker-breeze) |
