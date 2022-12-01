@@ -1,18 +1,18 @@
 ---
-title: Fluent
-nav_order: 2013
+title: Colloid
+nav_order: 2012
 has_children: false
 parent: theme-aur-package
 grand_parent: 佈景主題
 ---
 
 
-# Fluent
+# Colloid
 
 
 ## 查詢
 
-* AUR Search: [Fluent](https://aur.archlinux.org/packages?O=0&SeB=nd&K=Fluent&outdated=&SB=m&SO=d&PP=50&submit=Go)
+* AUR Search: [Fluent](https://aur.archlinux.org/packages?O=0&SeB=nd&K=Colloid&outdated=&SB=m&SO=d&PP=50&submit=Go)
 
 
 ## AUR Package
@@ -30,4 +30,4 @@ grand_parent: 佈景主題
 | 腳本 |
 | --- |
 | [安裝腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/theme/fluent)
-| [設定腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/style/kde-plasma-style-fluent-dark-breeze) |
+| [設定腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/style/kde-plasma-style-colloid-dark-nord-breeze) |
