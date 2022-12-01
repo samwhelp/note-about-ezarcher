@@ -28,5 +28,5 @@ grand_parent: 佈景主題
 
 | 腳本 |
 | --- |
-| [安裝腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/theme/qogir)
+| [安裝腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/theme/qogir) |
 | [設定腳本](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/de/kde-plasma/part/style/kde-plasma-style-qogir-dark-breeze) |
