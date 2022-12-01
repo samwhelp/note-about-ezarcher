@@ -1,6 +1,6 @@
 ---
 title: Vimix
-nav_order: 2017
+nav_order: 2019
 has_children: false
 parent: theme-aur-package
 grand_parent: 佈景主題
