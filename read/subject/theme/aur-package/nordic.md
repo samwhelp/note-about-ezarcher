@@ -1,5 +1,5 @@
 ---
-title: theme-aur-package-nordic
+title: Nordic
 nav_order: 2011
 has_children: false
 parent: theme-aur-package
@@ -7,7 +7,7 @@ grand_parent: 佈景主題
 ---
 
 
-# theme-aur-package-nordic
+# Nordic
 
 
 ## 查詢
