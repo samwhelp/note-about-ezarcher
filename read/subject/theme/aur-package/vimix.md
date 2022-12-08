@@ -20,7 +20,7 @@ grand_parent: 佈景主題
 | AUR Package |
 | --- |
 | [vimix-theme-kde-git](https://aur.archlinux.org/packages/vimix-theme-kde-git) |
-| [vimix-icon-theme-git](https://aur.archlinux.org/packages/vimix-icon-theme-gitt) |
+| [vimix-icon-theme-git](https://aur.archlinux.org/packages/vimix-icon-theme-git) |
 | [vimix-cursor-theme-git](https://aur.archlinux.org/packages/vimix-cursor-theme-git) |
 | [vimix-gtk-themes-translucent-git](https://aur.archlinux.org/packages/vimix-gtk-themes-translucent-git) |
 
