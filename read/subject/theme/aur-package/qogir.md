@@ -1,6 +1,6 @@
 ---
 title: Qogir
-nav_order: 2016
+nav_order: 2024
 has_children: false
 parent: theme-aur-package
 grand_parent: 佈景主題
