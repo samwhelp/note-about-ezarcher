@@ -26,7 +26,7 @@
 | [Kde Plasma](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop_environment/kde-plasma/) |
 
 
-## 桌面環境
+## 視窗管理器
 
 | 視窗管理器 |
 | --- |
