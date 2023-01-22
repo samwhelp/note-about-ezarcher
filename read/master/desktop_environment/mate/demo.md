@@ -14,4 +14,4 @@ grand_parent: 桌面環境
 
 | ISO Build Templates |
 | --- |
-| [Mate](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile/recipe/template/20221030/adjust/Templates/mate-20221030) |
+| [Mate](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile/recipe/template/20221030/adjust/Templates/Mate-20221030) |
