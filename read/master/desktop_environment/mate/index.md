@@ -1,12 +1,12 @@
 ---
-title: Xfce
-nav_order: 3010
+title: Mate
+nav_order: 3050
 has_children: true
 parent: 桌面環境
 ---
 
 
-# Xfce
+# Mate
 
 
 ## 主題
@@ -17,4 +17,4 @@ parent: 桌面環境
 
 ## 相關筆記
 
-* [Xfce 探索筆記](https://samwhelp.github.io/note-about-xfce/)
+* [Mate 探索筆記](https://samwhelp.github.io/note-about-mate/)
