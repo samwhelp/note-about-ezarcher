@@ -12,7 +12,7 @@ parent: 桌面環境
 ## 主題
 
 * [相關筆記](#相關筆記)
-
+* [相關範例](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop_environment/mate/demo.html)
 
 
 ## 相關筆記

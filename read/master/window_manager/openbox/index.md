@@ -12,7 +12,7 @@ parent: 視窗管理器
 ## 主題
 
 * [相關筆記](#相關筆記)
-
+* [相關範例](https://samwhelp.github.io/note-about-ezarcher/read/master/window_manager/openbox/demo.html)
 
 
 ## 相關筆記
