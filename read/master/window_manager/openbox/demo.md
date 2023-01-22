@@ -3,7 +3,7 @@ title: 相關範例
 nav_order: 3900
 has_children: false
 parent: Openbox
-grand_parent: 桌面環境
+grand_parent: 視窗管理器
 ---
 
 
