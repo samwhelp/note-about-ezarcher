@@ -31,7 +31,7 @@
 | 視窗管理器 |
 | --- |
 | [Openbox](https://samwhelp.github.io/note-about-ezarcher/read/master/window_manager/openbox/) |
-
+| [Compiz](https://samwhelp.github.io/note-about-ezarcher/read/master/window_manager/compiz/) |
 
 
 
