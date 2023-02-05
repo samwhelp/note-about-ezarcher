@@ -14,7 +14,7 @@ grand_parent: 視窗管理器
 執行下面指令，編譯安裝「AUR: [compiz](https://aur.archlinux.org/packages/compiz)」。
 
 ``` sh
-sudo yay -Sy --needed compiz
+yay -Sy --needed compiz
 ```
 
 
