@@ -11,8 +11,9 @@ parent: 視窗管理器
 
 ## 主題
 
-* [相關筆記](#相關筆記)
+* [如何安裝](https://samwhelp.github.io/note-about-ezarcher/read/master/window_manager/compiz/install.html)
 * [相關範例](https://samwhelp.github.io/note-about-ezarcher/read/master/window_manager/compiz/demo.html)
+* [相關筆記](#相關筆記)
 
 
 ## 相關筆記
