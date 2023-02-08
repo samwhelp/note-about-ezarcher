@@ -14,4 +14,4 @@ grand_parent: 視窗管理器
 
 | 說明 | 表格 |
 | --- | --- |
-| [入門](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start) | [一覽表](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start/cheat-sheet) |
+| [快速上手指南](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start) | [一覽表](https://samwhelp.github.io/system-modeling/read/zh_tw/quick-start/cheat-sheet) |
