@@ -11,8 +11,9 @@ parent: 桌面環境
 
 ## 主題
 
-* [相關筆記](#相關筆記)
+* [按鍵綁定](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop_environment/cinnamon/keybind.html)
 * [相關範例](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop_environment/cinnamon/demo.html)
+* [相關筆記](#相關筆記)
 
 
 ## 相關筆記
