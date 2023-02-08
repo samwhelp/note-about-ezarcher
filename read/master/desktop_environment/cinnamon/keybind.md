@@ -3,7 +3,7 @@ title: 按鍵綁定
 nav_order: 3200
 has_children: false
 parent: Cinnamon
-grand_parent: 視窗管理器
+grand_parent: 桌面環境
 ---
 
 
