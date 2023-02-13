@@ -19,7 +19,7 @@ parent: 視窗管理器
 
 ## 注意事項
 
-compiz as xfce
+compiz at xfce
 
 ``` sh
 gsettings set org.gnome.desktop.wm.preferences button-layout "'appmenu:minimize,maximize,close'"
