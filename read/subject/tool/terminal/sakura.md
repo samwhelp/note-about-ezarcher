@@ -1,13 +1,13 @@
 ---
-title: sakura
+title: Sakura
 nav_order: 3011
 has_children: false
-parent: terminal
+parent: Terminal
 grand_parent: 工具
 ---
 
 
-# sakura
+# Sakura
 
 
 ## 查詢
