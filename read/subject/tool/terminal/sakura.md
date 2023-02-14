@@ -10,7 +10,16 @@ grand_parent: 工具
 # Sakura
 
 
-## 查詢
+## Subject
+
+* [AUR Search](#aur-search)
+* [AUR Package](#aur-package)
+* [Main Packaging](#main-packaging)
+* [Config Packaging](#config-packaging)
+* [Config File](#config-file)
+
+
+## AUR Search
 
 * AUR Search: [sakura](https://aur.archlinux.org/packages?O=0&SeB=nd&K=sakura&outdated=&SB=m&SO=d&PP=50&submit=Go)
 
@@ -35,3 +44,9 @@ grand_parent: 工具
 | --- |
 | [ezarcher-adjustment-modeling-sakura](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-packaging/pack/core/tool/ezarcher-adjustment-modeling-sakura) |
 
+
+## Config File
+
+| Config Packaging |
+| --- |
+| [~/.config/sakura/sakura.conf](https://github.com/samwhelp/ezarcher-adjustment/blob/main/project/ezarcher-adjustment-system/ezarcher-adjustment-packaging/pack/core/tool/ezarcher-adjustment-modeling-sakura/asset/overlay/etc/skel/.config/sakura/sakura.conf) |
