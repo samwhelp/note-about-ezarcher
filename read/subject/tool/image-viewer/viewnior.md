@@ -2,7 +2,7 @@
 title: Viewnior
 nav_order: 3061
 has_children: false
-parent: Media Player
+parent: Image Viewer
 grand_parent: 工具
 ---
 
