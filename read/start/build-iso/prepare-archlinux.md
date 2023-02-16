@@ -1,5 +1,5 @@
 ---
-title: Prepare
+title: Prepare ArchLinux
 nav_order: 1011
 has_children: false
 parent: Build ISO
@@ -7,7 +7,7 @@ grand_parent: 入門
 ---
 
 
-# Prepare
+# Prepare ArchLinux
 
 事先安裝一個「Arch Linux」環境。
 
