@@ -12,8 +12,14 @@ grand_parent: 系統環境
 
 ## Subject
 
+* [Depend](#depend)
 * [Config Packaging](#config-packaging)
 * [Config File](#config-file)
+
+
+## Depend
+
+* [qt5-styleplugins](https://samwhelp.github.io/note-about-ezarcher/read/subject/environment/style/qt5-styleplugins.html)
 
 
 ## Config Packaging
