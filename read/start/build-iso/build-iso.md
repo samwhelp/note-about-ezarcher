@@ -63,6 +63,8 @@ cd /opt/ezarcher-adjustment/iso-build-system/ezarcher-adjustment-iso-profile/rec
 sudo pacman -Sy --needed archiso
 ```
 
+* Arch Wiki / [Archiso](https://wiki.archlinux.org/title/archiso)
+
 
 ## Build
 
