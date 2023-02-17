@@ -48,7 +48,6 @@
 | ISO Build System | 使用說明 |
 | --- | --- |
 | [ezarcher-adjustment-packaging](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-packaging) | [使用說明](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-package.html) |
-
 | [ezarcher-adjustment-repository](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-repository) | [使用說明](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/update-package-repository-db.html) |
 | [ezarcher-adjustment-iso-profile](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile) | [使用說明](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-iso.html) |
 
