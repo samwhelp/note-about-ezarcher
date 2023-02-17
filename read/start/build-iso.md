@@ -23,3 +23,9 @@ parent: 入門
 | [打包相關的「Arch Package」](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-package.html) |
 | [更新「Arch Package Repository Db」](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/update-package-repository-db.html) |
 | [根據樣版，建立「Arch ISO」](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-iso.html) |
+
+
+## Arch Wiki
+
+* [Archiso](https://wiki.archlinux.org/title/archiso)
+* [Meta package and package group](https://wiki.archlinux.org/title/Meta_package_and_package_group)
