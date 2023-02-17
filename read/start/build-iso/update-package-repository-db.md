@@ -44,4 +44,4 @@ make db-update
 
 ## 下一步
 
-接下來「準備 Ezarcher Adjusetment / ISO Build System」。
+接下來進到「[建立ISO](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-iso.html)」的步驟。

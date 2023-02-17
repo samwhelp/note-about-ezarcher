@@ -1,6 +1,6 @@
 ---
 title: Build Ezarcher Adjustment ISO
-nav_order: 1013
+nav_order: 1015
 has_children: false
 parent: Build ISO
 grand_parent: 入門
