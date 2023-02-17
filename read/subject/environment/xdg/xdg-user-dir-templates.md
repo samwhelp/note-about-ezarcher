@@ -3,7 +3,7 @@ title: xdg-user-dir-templates
 nav_order: 2111
 has_children: false
 parent: Xdg
-grand_parent: Environment
+grand_parent: 系統環境
 ---
 
 
