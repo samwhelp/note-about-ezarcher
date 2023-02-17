@@ -10,6 +10,11 @@ grand_parent: 入門
 # Build Ezarcher Adjustment ISO
 
 
+## 上一步
+
+> 更新「[Package Repository Db](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/update-package-repository-db.html)」。
+
+
 ## To Work Dir
 
 先確定要建立的樣版，
@@ -43,4 +48,11 @@ make build
 
 ## 下一步
 
-接下來「更新Package Repository Db」。
+接下來，可以透過下面幾種方式來「Boot ISO」
+
+| Howto Boot ISO |
+| --- |
+| [Boot ISO By USB ](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_usb.html) |
+| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_ventoy.html) |
+| [Boot ISO By Grub](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_grub.html) |
+| Boot ISO By Virtual Machine - like: Virtualbox, QEMU |

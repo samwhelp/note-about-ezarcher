@@ -18,7 +18,7 @@ grand_parent: 入門
 
 ## 下一步
 
-接下來「[準備 Ezarcher Adjusetment / ISO Build System](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/prepare-iso-build-system.html)」。
+> 接下來「[準備 Ezarcher Adjusetment / ISO Build System](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/prepare-iso-build-system.html)」。
 
 
 ## 相關筆記

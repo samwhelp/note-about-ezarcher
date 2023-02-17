@@ -10,6 +10,11 @@ grand_parent: 入門
 # Prepare ISO Build System
 
 
+## 上一步
+
+> 事先[安裝一個「Arch Linux」環境](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/prepare-archlinux.html)。
+
+
 ## Clone
 
 執行下面指令
@@ -51,4 +56,4 @@ ezarcher-adjustment-repository:  symbolic link to /home/sam/Documents/ezarcher-a
 
 ## 下一步
 
-接下來「[打包相關的Package](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-package.html)」。
+> 接下來「[打包相關的Package](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso/build-package.html)」。
