@@ -28,3 +28,9 @@ grand_parent: 系統環境
 | Config File |
 | --- |
 | [/etc/dconf/profile/user](https://github.com/samwhelp/ezarcher-adjustment/blob/main/project/ezarcher-adjustment-system/ezarcher-adjustment-packaging/pack/core/dconf/ezarcher-adjustment-modeling-dconf-default-user-db-initialization/asset/overlay/etc/dconf/profile/user) |
+
+
+## Use Case
+
+* [gnome-terminal](https://samwhelp.github.io/note-about-ezarcher/read/subject/tool/terminal/gnome-terminal.html)
+* [mate-terminal](https://samwhelp.github.io/note-about-ezarcher/read/subject/tool/terminal/mate-terminal.html)
