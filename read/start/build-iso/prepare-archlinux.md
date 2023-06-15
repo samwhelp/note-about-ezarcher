@@ -23,4 +23,4 @@ grand_parent: 入門
 
 ## 相關筆記
 
-* ArchLinux 探索筆記 / [Build ISO](https://samwhelp.github.io/note-about-archlinux/read/build-iso.html)
+* ArchLinux 探索筆記 / [Build ISO](https://samwhelp.github.io/note-about-archlinux/read/core/iso/build-iso.html)
