@@ -81,7 +81,7 @@ make build
 
 | Howto Boot ISO |
 | --- |
-| [Boot ISO By USB ](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_usb.html) |
-| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_ventoy.html) |
-| [Boot ISO By Grub](https://samwhelp.github.io/note-about-archlinux/read/start/download/boot_iso_by_grub.html) |
+| [Boot ISO By USB ](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-usb.html) |
+| [Boot ISO By Ventoy](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-ventoy.html) |
+| [Boot ISO By Grub](https://samwhelp.github.io/note-about-archlinux/read/core/iso/boot-iso/boot-iso-by-grub.html) |
 | Boot ISO By Virtual Machine - like: Virtualbox, QEMU |
