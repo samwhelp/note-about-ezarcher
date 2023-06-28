@@ -11,8 +11,8 @@ parent: 桌面環境
 
 ## 主題
 
-* [按鍵綁定](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop_environment/gnome-shell/keybind.html)
-* [相關範例](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop_environment/gnome-shell/demo.html)
+* [按鍵綁定](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/gnome-shell/keybind.html)
+* [相關範例](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/gnome-shell/demo.html)
 * [相關筆記](#相關筆記)
 
 
