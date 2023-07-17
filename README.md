@@ -65,6 +65,7 @@
 
 ## 相關筆記
 
+* [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
 * [ArchLinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) ([GitHub](https://github.com/samwhelp/note-about-archlinux/))
 * [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) ([GitHub](https://github.com/samwhelp/note-about-kde/))
 * [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
