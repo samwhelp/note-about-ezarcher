@@ -4,35 +4,59 @@ nav_order: 9000
 has_children: false
 ---
 
+
 # 連結
 
 
-## eznix
+## Eznix
 
-* [https://www.youtube.com/c/eznix/videos](https://www.youtube.com/c/eznix/videos)
-
-## ezarcher
-
-* [https://osdn.net/projects/ezarch/releases/](https://osdn.net/projects/ezarch/releases/)
-* [https://sourceforge.net/projects/ezarch/files/](https://sourceforge.net/projects/ezarch/files/)
-
-## eznix-os
-
-* [https://osdn.net/projects/eznix-os/releases/](https://osdn.net/projects/eznix-os/releases/)
-* [https://sourceforge.net/projects/eznixos/files/](https://sourceforge.net/projects/eznixos/files/)
-
-## ISO
-
-* SourceForge / EZARCH / [ISO](https://sourceforge.net/projects/ezarch/files/ISO/)
-* OSDN / EZARCH / [ISO](https://osdn.net/projects/ezarch/releases/)
+* Youtube / [Eznix](https://www.youtube.com/c/eznix/videos)
+* SourceForge / [Eznix](https://sourceforge.net/u/ezos/profile/)
 
 
-## Note
+## Ezarcher
+
+* SourceForge / [Ezarcher](https://sourceforge.net/projects/ezarch/files/)
+* OSDN / [Ezarcher](https://osdn.net/projects/ezarch/releases/)
+
+
+## Ezarcher / ISO
+
+* SourceForge / Ezarcher / [ISO](https://sourceforge.net/projects/ezarch/files/ISO/)
+* OSDN / Ezarcher / [ISO](https://osdn.net/projects/ezarch/releases/)
+
+
+## EznixOS
+
+* SourceForge / [EznixOS](https://sourceforge.net/projects/eznixos/files/)
+* OSDN / [EznixOS](https://osdn.net/projects/eznix-os/releases/)
+
+
+## SourceForge
+
+| User |
+| --- |
+| [Eznix](https://sourceforge.net/u/ezos/profile/) |
+
+| Project |
+| --- |
+| [Eznix](https://sourceforge.net/projects/ezos/) |
+| [EznixOS](https://sourceforge.net/projects/eznixos/) |
+| [Ezarcher](https://sourceforge.net/projects/ezarch/) |
+
+
+## 相關筆記
 
 | Link | GitHub |
 | --- | --- |
 | [Ezarcher Adjustment](https://samwhelp.github.io/ezarcher-adjustment/) | [GitHub](https://github.com/samwhelp/ezarcher-adjustment) |
 | [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
+
+
+| Link | GitHub |
+| --- | --- |
+| [EznixOS Adjustment](https://samwhelp.github.io/eznixos-adjustment/) | [GitHub](https://github.com/samwhelp/eznixos-adjustment) |
+| [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
 
 
 ## Just the Docs
