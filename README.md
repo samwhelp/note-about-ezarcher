@@ -10,8 +10,8 @@
 | Link |
 | --- |
 | YouTube / [Eznix](https://www.youtube.com/c/eznix/videos) |
-| OSDN / [Ezarcher](https://osdn.net/projects/ezarch/releases/) |
 | SOURCEFORGE / [Ezarcher](https://sourceforge.net/projects/ezarch/files/) |
+| OSDN / [Ezarcher](https://osdn.net/projects/ezarch/releases/) |
 
 
 ## 入門
@@ -25,20 +25,20 @@
 
 | 桌面環境 |
 | --- |
-| [Xfce](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/xfce/) |
-| [Gnome Shell](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/gnome-shell/) |
-| [Gnome Flashback](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/gnome-flashback/) |
-| [Cinnamon](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/cinnamon/) |
-| [Mate](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/mate/) |
-| [Kde Plasma](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/kde-plasma/) |
+| [Xfce](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/xfce.html) |
+| [Gnome Shell](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/gnome-shell.html) |
+| [Gnome Flashback](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/gnome-flashback.html) |
+| [Cinnamon](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/cinnamon.html) |
+| [Mate](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/mate.html) |
+| [Kde Plasma](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/kde-plasma.html) |
 
 
 ## 視窗管理器
 
 | 視窗管理器 |
 | --- |
-| [Openbox](https://samwhelp.github.io/note-about-ezarcher/read/master/window-manager/openbox/) |
-| [Compiz](https://samwhelp.github.io/note-about-ezarcher/read/master/window-manager/compiz/) |
+| [Openbox](https://samwhelp.github.io/note-about-ezarcher/read/master/window-manager/openbox.html) |
+| [Compiz](https://samwhelp.github.io/note-about-ezarcher/read/master/window-manager/compiz.html) |
 
 
 
