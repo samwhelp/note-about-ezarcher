@@ -10,7 +10,7 @@
 | Link |
 | --- |
 | YouTube / [Eznix](https://www.youtube.com/c/eznix/videos) |
-| SOURCEFORGE / [Ezarcher](https://sourceforge.net/projects/ezarch/files/) |
+| SourceForge / [Ezarcher](https://sourceforge.net/projects/ezarch/files/) |
 | OSDN / [Ezarcher](https://osdn.net/projects/ezarch/releases/) |
 
 
