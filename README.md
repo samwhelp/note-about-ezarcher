@@ -1,4 +1,5 @@
 
+
 # 首頁
 
 | Link | GitHub |
@@ -14,11 +15,30 @@
 | OSDN / [Ezarcher](https://osdn.net/projects/ezarch/releases/) |
 
 
+
+
+## Ezarcher / Live Build Config
+
+| Template | Respin |
+| -------- | ------ |
+| [ezarcher-live-build-config-template-xfce](https://github.com/samwhelp/ezarcher-live-build-config-template-xfce) | [ezarcher-live-build-config-respin-xfce](https://github.com/samwhelp/ezarcher-live-build-config-respin-xfce) |
+| [ezarcher-live-build-config-template-kde-plasma](https://github.com/samwhelp/ezarcher-live-build-config-template-kde-plasma) | [ezarcher-live-build-config-respin-kde-plasma](https://github.com/samwhelp/ezarcher-live-build-config-respin-kde-plasma) |
+| [ezarcher-live-build-config-template-gnome-shell](https://github.com/samwhelp/ezarcher-live-build-config-template-gnome-shell) | [ezarcher-live-build-config-respin-gnome-shell](https://github.com/samwhelp/ezarcher-live-build-config-respin-gnome-shell) |
+| [ezarcher-live-build-config-template-mate](https://github.com/samwhelp/ezarcher-live-build-config-template-mate) | [ezarcher-live-build-config-respin-mate](https://github.com/samwhelp/ezarcher-live-build-config-respin-mate) |
+| [ezarcher-live-build-config-template-cinnamon](https://github.com/samwhelp/ezarcher-live-build-config-template-cinnamon) | [ezarcher-live-build-config-respin-cinnamon](https://github.com/samwhelp/ezarcher-live-build-config-respin-cinnamon) |
+| [ezarcher-live-build-config-template-lxqt](https://github.com/samwhelp/ezarcher-live-build-config-template-lxqt) | [ezarcher-live-build-config-respin-lxqt](https://github.com/samwhelp/ezarcher-live-build-config-respin-lxqt) |
+| [ezarcher-live-build-config-template-lxde](https://github.com/samwhelp/ezarcher-live-build-config-template-lxde) | [ezarcher-live-build-config-respin-lxde](https://github.com/samwhelp/ezarcher-live-build-config-respin-lxde) |
+
+
+
+
 ## 入門
 
 | 入門 |
 | --- |
 | [Build ISO](https://samwhelp.github.io/note-about-ezarcher/read/start/build-iso.html) |
+
+
 
 
 ## 桌面環境
@@ -31,6 +51,8 @@
 | [Cinnamon](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/cinnamon.html) |
 | [Mate](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/mate.html) |
 | [Kde Plasma](https://samwhelp.github.io/note-about-ezarcher/read/master/desktop-environment/kde-plasma.html) |
+
+
 
 
 ## 視窗管理器
@@ -53,6 +75,7 @@
 
 
 
+
 ## ISO Build Template
 
 | ISO Build Template |
@@ -63,6 +86,8 @@
 | [alternative](https://github.com/samwhelp/ezarcher-adjustment/tree/main/project/ezarcher-adjustment-system/ezarcher-adjustment-iso-profile/recipe/template/20221030/alternative/Templates) |
 
 
+
+
 ## 相關筆記
 
 * [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
@@ -71,6 +96,8 @@
 * [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
 * [XeroLinux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) ([GitHub](https://github.com/samwhelp/note-about-xerolinux/))
 * [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) ([GitHub](https://github.com/samwhelp/note-about-ubuntu/))
+
+
 
 
 ## samwhelp
