@@ -19,7 +19,21 @@
 
 ## 主題
 
+* [微調腳本](#微調腳本)
 * [相關筆記](#相關筆記)
+
+
+
+
+## 微調腳本
+
+| 微調腳本 |
+| ------- |
+| [Ezarcher Config](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/main) |
+| [Tool Config](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
 
 ## Ezarcher / Live Build Config
 
@@ -48,6 +62,6 @@
 
 
 
-## samwhelp
+## Samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
