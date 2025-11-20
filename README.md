@@ -3,7 +3,7 @@
 # 首頁
 
 | Link | GitHub |
-| --- | --- |
+| ---- | ------ |
 | [Ezarcher Adjustment](https://samwhelp.github.io/ezarcher-adjustment/) | [GitHub](https://github.com/samwhelp/ezarcher-adjustment) |
 | [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
 
@@ -21,6 +21,8 @@
 ## 主題
 
 * [微調腳本](#微調腳本)
+* [Ezarcher Respin](#ezarcher-respin)
+* [Ezarcher / Live Build Config](#ezarcher--live build-config)
 * [相關筆記](#相關筆記)
 
 
@@ -32,6 +34,22 @@
 | ------- |
 | [Ezarcher Config](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/main) |
 | [Tool Config](https://github.com/samwhelp/ezarcher-adjustment/tree/main/prototype/main/tool-config/part) |
+
+
+
+
+## Ezarcher Respin
+
+| Link | GitHub |
+| ---- | ------ |
+| [Ezarcher Xfce 探索筆記](https://samwhelp.github.io/note-about-ezarcher-xfce/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-xfce) |
+| [Ezarcher Kde Plasma 探索筆記](https://samwhelp.github.io/note-about-ezarcher-kde-plasma/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-kde-plasma) |
+| [Ezarcher Gnome Shell 探索筆記](https://samwhelp.github.io/note-about-ezarcher-gnome-shell/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-gnome-shell) |
+| [Ezarcher Cinnamon 探索筆記](https://samwhelp.github.io/note-about-ezarcher-cinnamon/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-cinnamon) |
+| [Ezarcher Mate 探索筆記](https://samwhelp.github.io/note-about-ezarcher-mate/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-mate) |
+| [Ezarcher Lxqt 探索筆記](https://samwhelp.github.io/note-about-ezarcher-lxqt/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-lxqt) |
+| [Ezarcher Lxde 探索筆記](https://samwhelp.github.io/note-about-ezarcher-lxde/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-lxde) |
+| [Ezarcher Cosmic 探索筆記](https://samwhelp.github.io/note-about-ezarcher-cosmic/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher-cosmic) |
 
 
 
@@ -53,12 +71,13 @@
 
 ## 相關筆記
 
-* [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) ([GitHub](https://github.com/samwhelp/note-about-eznixos/))
-* [ArchLinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) ([GitHub](https://github.com/samwhelp/note-about-archlinux/))
-* [KDE 探索筆記](https://samwhelp.github.io/note-about-kde/) ([GitHub](https://github.com/samwhelp/note-about-kde/))
-* [BigLinux 探索筆記](https://samwhelp.github.io/note-about-biglinux/) ([GitHub](https://github.com/samwhelp/note-about-biglinux/))
-* [XeroLinux 探索筆記](https://samwhelp.github.io/note-about-xerolinux/) ([GitHub](https://github.com/samwhelp/note-about-xerolinux/))
-* [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) ([GitHub](https://github.com/samwhelp/note-about-ubuntu/))
+| Link | GitHub |
+| ---- | ------ |
+| [EznixOS 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
+| [ArchLinux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
+| [Ubuntu 探索筆記](https://samwhelp.github.io/note-about-ubuntu/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu) |
+| [Fedora 探索筆記](https://samwhelp.github.io/note-about-fedora/) | [GitHub](https://github.com/samwhelp/note-about-fedora) |
 
 
 
